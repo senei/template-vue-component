@@ -1,4 +1,4 @@
-# template-vue-component
+# vue-component-tmp
 
 Boilerplate for standalone Vue.js components
 
